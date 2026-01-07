@@ -1,0 +1,10 @@
+Developed an interactive Excel dashboard to analyze customer demographics and purchasing behavior. The project involved data cleaning, pivot-based analysis, and visual storytelling to uncover trends across age groups, income levels, gender, and regions.
+
+Key highlights:
+
+Data cleaning and transformation for accurate analysis
+Advanced Pivot Tables and Pivot Charts
+Interactive dashboard with slicers and filters
+Business-focused insights and professional visualization
+
+This project demonstrates strong skills in Excel analytics, reporting, and dashboard design.
